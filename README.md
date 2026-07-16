@@ -1,4 +1,4 @@
-﻿# End-to-End E-Commerce Data Engineering Pipeline using Databricks
+﻿# E-Commerce Data Engineering Pipeline using Databricks
 
 ## Overview
 
