@@ -48,10 +48,17 @@ ecommerce-medallion-data-engineering/
 │   └── 01_ecommerce_setup.py
 │
 ├── notebooks/
-│   └── medallion_processing/
-│       ├── 01_dim_bronze.py
-│       ├── 02_dim_silver.py
-│       └── 03_dim_gold.py
+│   └── medallion_processing_dim/
+│   │   ├── 1_dim_bronze.py
+│   │   ├── 2_dim_silver.py
+│   │   └── 3_dim_gold.py
+│   │
+│   │
+│   └── medallion_processing_fact/
+│       ├── 1_fact_bronze.py
+│       ├── 2_fact_silver.py
+│       └── 3_fact_gold.py
+│
 │
 ├── data/
 │   └── sample_data/
